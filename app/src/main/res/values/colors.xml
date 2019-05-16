@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#095C0F</color>
+    <color name="colorPrimaryDark">#00D610</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+
+    <color name="colorBackground">#80E7C4</color>
+
+    <color name="colorofscore">#A50909</color>
+
+    <color name="colorofoptionanswer">#034104</color>
+
+
+
+</resources>
