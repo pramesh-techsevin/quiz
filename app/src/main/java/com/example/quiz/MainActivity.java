@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String KEY_HIGHSCORE = "keyHighscore";
     public static final String KEY_HIGHSCORE_TIME = "00:00:00";
     private static final int REQUEST_CODE_QUIZ = 1;
-
+    public String TEST = "";
 
 
 
